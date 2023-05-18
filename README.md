@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning c++
 - 📫 How to reach me: linqunzhou@icloud.com
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
