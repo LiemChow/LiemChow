@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning c++
-- 📫 How to reach me: linqunzhou@icloud.com
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=alen_q" />
+<img height="280em" src="https://leetcard.jacoblin.cool/liemchow?theme=light&font=Sura&ext=activity" />
+
 </p>
