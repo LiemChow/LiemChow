@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <p float="left">
-<img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=alen_q" />
+<img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=alen_q"/>
 <img height="280em" src="https://leetcard.jacoblin.cool/liemchow?theme=light&font=Sura&ext=activity" />
-
 </p>
