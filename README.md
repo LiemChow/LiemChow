@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning c++
 - 📫 How to reach me: linqunzhou@icloud.com
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Alen_Q&theme=1)
