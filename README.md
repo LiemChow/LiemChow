@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![LeetCode Stats](https://leetcard.jacoblin.cool/ji-nu-li-wei-si-i?theme=light&font=Anek%20Gujarati&ext=activity&site=cn)
 <img height="280em" src="https://leetcard.jacoblin.cool/liemchow?theme=light&font=Sura&ext=activity" />
 <img height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=alen_q"/>
--->
-
 <p float="left">
+
 
 <img height="280em" src="https://leetcard.jacoblin.cool/liemchow?theme=light&font=Sura&ext=activity" />
 </p>
+
+-->
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ji-nu-li-wei-si-i?theme=light&font=Anek%20Gujarati&ext=activity&site=cn)
